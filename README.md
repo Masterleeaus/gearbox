@@ -8,6 +8,13 @@ GEARBOX adalah platform booking service kendaraan yang menekankan transparansi b
 
 ---
 
+## Product architecture and engineering highlights
+
+A workshop-service platform for vehicle owners, administrators, and mechanics, built around transparent estimates and visible repair progress.
+
+- **Architecture:** A Laravel API and React client separate role-specific customer, workshop, and mechanic surfaces; a 11-state booking/service lifecycle coordinates inspection, estimate approval, repair, payment, and completion.
+- **Distinctive engineering:** Distinctive workflow details include mechanic inspections with photo evidence, service-specific checklists, customer approval of added work, role-based job queues, and activity records for state transitions.
+
 ## ✨ Features
 
 ### Customer
