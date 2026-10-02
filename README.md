@@ -1,4 +1,4 @@
-# 🔧 GEARBOX
+# Gearbox Workshop Booking Platform
 
 **Car Workshop Booking & Service Transparency Platform**
 
