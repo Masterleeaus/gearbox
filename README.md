@@ -1,3 +1,5 @@
+![Gearbox Workshop Booking Platform — BOOKING · SERVICE TRACKING · PROTOTYPE](docs/images/portfolio-banner.svg)
+
 # Gearbox Workshop Booking Platform
 
 **Car Workshop Booking & Service Transparency Platform**
